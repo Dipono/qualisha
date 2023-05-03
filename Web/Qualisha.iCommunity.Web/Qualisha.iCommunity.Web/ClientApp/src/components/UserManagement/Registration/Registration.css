@@ -1,0 +1,51 @@
+.container{
+    margin: 15px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.required{
+    margin-top: 5px;
+    color: red;
+}
+
+label,input{
+    margin-left: 2%;
+}
+
+input{
+    border-top: hidden;
+    border-left: hidden;
+    border-radius: hidden;
+    border-bottom: groove;
+}
+
+input:focus{
+    outline: none
+}
+
+.control-form{
+    height: 30px;;
+}
+
+.form-button{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.btn{
+    width:100px;
+    height: 50px;
+    background-color: steelblue;
+    border-radius: 10px;
+}
+
+.error-message{
+    color: red;
+    margin-left: 25px;
+}

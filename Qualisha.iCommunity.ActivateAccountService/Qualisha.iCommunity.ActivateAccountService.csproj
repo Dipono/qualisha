@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+<<<<<<< HEAD
+  <ItemGroup>
+    <ProjectReference Include="..\DataStore\Qualisha.iCommunity.Data\Qualisha.iCommunity.Data.csproj" />
+  </ItemGroup>
+
+=======
+>>>>>>> 406c525a6c2dddb071ffe8e0b69dfc1ae6d3f35f
+</Project>
